@@ -1,3 +1,6 @@
 .demo-msg {
   visibility: hidden;
 }
+.sample-container{
+    height: 100%;
+}
