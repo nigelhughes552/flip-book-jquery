@@ -1,6 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
 .demo-msg {
   visibility: hidden;
 }
-.sample-container{
-    height: 100%;
+.sample-container {
+  height: 100%;
+}
+.solid-container {
+  height: 100vh;
 }
